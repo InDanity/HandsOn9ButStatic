@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\bin\Debug\net8.0\HandsOn9ButStatic.exe
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\bin\Debug\net8.0\HandsOn9ButStatic.deps.json
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\bin\Debug\net8.0\HandsOn9ButStatic.runtimeconfig.json
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\bin\Debug\net8.0\HandsOn9ButStatic.dll
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\bin\Debug\net8.0\HandsOn9ButStatic.pdb
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.dll
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\refint\HandsOn9ButStatic.dll
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.pdb
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\HandsOn9ButStatic.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\HandsOn9ButStatic\HandsOn9ButStatic\obj\Debug\net8.0\ref\HandsOn9ButStatic.dll
